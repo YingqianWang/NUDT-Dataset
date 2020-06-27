@@ -8,7 +8,7 @@
 
 | <img src="https://raw.github.com/YingqianWang/NUDT-Dataset/master/Fig/bedroom.jpg" width="200"> | <img src="https://raw.github.com/YingqianWang/NUDT-Dataset/master/Fig/chess.jpg" width="200"> | <img src="https://raw.github.com/YingqianWang/NUDT-Dataset/master/Fig/robot.jpg" width="200"> | <img src="https://raw.github.com/YingqianWang/NUDT-Dataset/master/Fig/study.jpg" width="200"> |
 | :----------: |  :-----: | :-------: | :-------: |
-| [**bedroom**](https://yingqianwang.github.io/homepage/) | [**chess**](https://yingqianwang.github.io/homepage/) | [**robot**](https://yingqianwang.github.io/homepage/) | [**study**](https://yingqianwang.github.io/homepage/) |
+| [**bedroom**](https://wyqdatabase.s3-us-west-1.amazonaws.com/bedroom.zip) | [**chess**](https://wyqdatabase.s3-us-west-1.amazonaws.com/chess.zip) | [**robot**](https://wyqdatabase.s3-us-west-1.amazonaws.com/robot.zip) | [**study**](https://wyqdatabase.s3-us-west-1.amazonaws.com/study.zip) |
 * ***Note: click the scene name to download the dataset.***
 
 ## Contact
