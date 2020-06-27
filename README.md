@@ -1,1 +1,3 @@
-The NUDT dataset will be released soon.
+### <img src="https://github.com/YingqianWang/NUDT-Dataset/master/Fig/Overview.jpg" width="1000">
+#### With recent advances in camera manufacturing, light field (LF) imaging technology becomes increasingly popular and is commonly used in various applications such as mobile phones, biological microscope, VR/AR etc. However, LF images captured by different devices (especially camera arrays) usually have significantly different baseline lengths. It is therefore, necessary to know how existing LF algorithms work under baseline variations, including those developed for depth estimation, view synthesis, and image SR. To facilitate the study of LF algorithms under baseline variations, in this repository, we introduce a novel LF dataset (namely, the NUDT dataset) with adjustable baselines.
+
