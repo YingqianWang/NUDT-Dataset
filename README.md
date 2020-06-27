@@ -9,3 +9,6 @@
 | <img src="https://github.com/YingqianWang/NUDT-Dataset/master/Fig/bedroom.jpg" width="200"> | <img src="https://github.com/YingqianWang/NUDT-Dataset/master/Fig/bedroom.jpg" width="200"> | <img src="https://github.com/YingqianWang/NUDT-Dataset/master/Fig/bedroom.jpg" width="200"> | <img src="https://github.com/YingqianWang/NUDT-Dataset/master/Fig/bedroom.jpg" width="200"> |
 | :----------: |  :-----: | :-------: | :-------: |
 | [**bedroom**](https://yingqianwang.github.io/homepage/) | [**chess**](https://yingqianwang.github.io/homepage/) | [**robot**](https://yingqianwang.github.io/homepage/) | [**study**](https://yingqianwang.github.io/homepage/) |
+
+## Contact
+**Any question regarding this work can be addressed to wangyingqian16@nudt.edu.cn.**
