@@ -11,5 +11,16 @@
 | [**bedroom**](https://wyqdatabase.s3-us-west-1.amazonaws.com/bedroom.zip) | [**chess**](https://wyqdatabase.s3-us-west-1.amazonaws.com/chess.zip) | [**robot**](https://wyqdatabase.s3-us-west-1.amazonaws.com/robot.zip) | [**study**](https://wyqdatabase.s3-us-west-1.amazonaws.com/study.zip) |
 * ***Note: click the scene name to download the dataset.***
 
+## Citiation
+**If you find this work helpful, please consider citing the following paper:**
+```
+@article{LF-DFnet,
+  title={Light Field Image Super-Resolution Using Deformable Convolution},
+  author={Wang, Yingqian and Yang, Jungang and Wang, Longguang and Ying, Xinyi and Wu, Tianhao and An, Wei and Guo, Yulan},
+  journal={arXiv preprint arXiv:2007.03535},
+  year={2020}
+}
+```
+
 ## Contact
 **Any question regarding this work can be addressed to wangyingqian16@nudt.edu.cn.**
